@@ -1,7 +1,5 @@
 # NOVA – Premium SaaS Landing Page
 
-![NOVA Hero Preview](https://via.placeholder.com/1200x600/111111/FFFFFF?text=NOVA+SaaS+Platform)
-
 > **Note:** This project was developed as a Front-End Development Internship Assignment to demonstrate proficiency in modern web architecture, UI/UX design, and complex animations.
 
 ## 📖 Project Description
@@ -47,20 +45,11 @@ To run this project locally on your machine:
 5. **Open in browser**:
    Navigate to `http://localhost:5173` in your web browser.
 
-## 📸 Screenshots
-
-*(Replace these placeholder links with actual screenshots of your project before submitting)*
-
-### Light Mode (Monochrome)
-![Light Mode Screenshot](https://via.placeholder.com/800x400/FFFFFF/111111?text=Light+Mode+Preview)
-
-### Dark Mode (Purple Glow)
-![Dark Mode Screenshot](https://via.placeholder.com/800x400/111113/6D5EF5?text=Dark+Mode+Preview)
-
 ## 🌐 Live Demo
 
-*(Add your deployment link here once hosted on Vercel, Netlify, or GitHub Pages)*
-- **Live URL**: [https://your-deployment-link-here.com](https://your-deployment-link-here.com)
+This project is deployed using GitHub Pages.
+
+- **Live URL**: [https://arunkumar-v43551.github.io/Frontend-product-website/](https://arunkumar-v43551.github.io/Frontend-product-website/)
 
 ## 🤖 AI Tools Used
 
